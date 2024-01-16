@@ -6,22 +6,20 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Security Audit</b>
   - [Performing Security Audit](https://github.com/digital-md/Security-Audit/tree/main) <b><i></b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>SQL Queries</b>
+  - [Apply Filters SQL Queries](https://github.com/digital-md/Apply-filters-SQL-queries)
+- <b>Cryptography</b>
+  - [Decript an Encrypted Message](https://github.com/digital-md/Decript-and-Encrypted-Message)
+- <b>Security Incident Response</b>
+  - [Analyzing Security Incidents](https://github.com/digital-md/Analyzing-network-structure-security)
+
+- <b>Linux Commands</b>
+  - [Linux for File Permissions](https://github.com/digital-md/Linux-commands-to-manage-file-permissions)
 <h2>Certifications & Licenses</h2>
 
-- <b>Cybersecurity Professional Certificate</b>
+- <b>Google Cybersecurity Specialization Certificate</b>
 
-- <b>Paralegal Professional Certificate UNLV</b>
+- <b>Paralegal Studies Professional Certificate UNLV</b>
 
 - <b>Westlaw Next Certificate</b>
 
@@ -42,7 +40,7 @@
 
 
 
-[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/mike-doty-120ab313/details/certifications/)
+[linkedin]: [https://www.linkedin.com/in/mike-doty-120ab313]
 
 <!--
 **digital-md/digital-md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
