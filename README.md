@@ -30,26 +30,12 @@
 
 <h2> 🤳 Connect with me:</h2>
 
+![icons8-linkedin-48](https://github.com/digital-md/digital-md/assets/156498985/a1e20841-f8d3-4b68-9b05-532437186b26)
+https://www.linkedin.com/in/mike-doty-120ab313
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-![icons8-facebook-48](https://github.com/digital-md/digital-md/assets/156498985/db36bebf-93a5-49bc-8514-e3663a13ca4f)
-
-
-
-[linkedin]: [https://www.linkedin.com/in/mike-doty-120ab313]
+![icons8-facebook-48](https://github.com/digital-md/digital-md/assets/156498985/30de628b-ac7d-47fe-847b-0963c60f31f6)
+https://www.facebook.com/Mikedoty24
 
 <!--
-**digital-md/digital-md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
