@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Python</b>
+  - [Develop Algorithms to Update and Parse Files](https://github.com/digital-md/Python)
 - <b>Security Audit</b>
   - [Performing Security Audit](https://github.com/digital-md/Security-Audit/tree/main) <b><i></b></i>
 - <b>SQL Queries</b>
