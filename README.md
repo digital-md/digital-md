@@ -17,7 +17,7 @@
   - [Linux for File Permissions](https://github.com/digital-md/Linux-commands-to-manage-file-permissions)
 <h2>Certifications & Licenses</h2>
 
-- <b>Google Cybersecurity Specialization Certificate</b>
+- <b>Google Cybersecurity Specialization Certificate</b> ([Credentials](https://www.coursera.org/account/accomplishments/specialization/VFTTX3QC4L2K))  
 
 - <b>Paralegal Studies Professional Certificate UNLV</b>
 
@@ -27,10 +27,6 @@
 
 - <b>Document Preparation</b>
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
 <h2> 🤳 Connect with me:</h2>
 
