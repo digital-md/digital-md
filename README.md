@@ -1,7 +1,11 @@
 <h1>Hi, I'm Mike! <br/><a href="https://github.com/digital-md">Security Analyst</a>
 
+<div align="center">
+  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+</div>
+ 
 - <b>Python</b>
   - [Develop Algorithms to Update and Parse Files](https://github.com/digital-md/Python)
 - <b>Security Audit</b>
@@ -16,8 +20,10 @@
 - <b>Linux Commands</b>
   - [Linux for File Permissions](https://github.com/digital-md/Linux-commands-to-manage-file-permissions)
  
-
+<div align="center">
+  
 <h2>Certifications & Licenses</h2>
+</div>
 
 - <b>Google Cybersecurity Specialization Certificate</b> ([Credentials](https://www.coursera.org/account/accomplishments/specialization/VFTTX3QC4L2K))  
 
