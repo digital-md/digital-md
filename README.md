@@ -19,33 +19,15 @@
 
 - <b>Google Cybersecurity Specialization Certificate</b> ([Credentials](https://www.coursera.org/account/accomplishments/specialization/VFTTX3QC4L2K))  
 
-- <b>Paralegal Studies Professional Certificate UNLV</b>
+- <b>UNLV Paralegal Studies Professional Certificate</b>
 
 - <b>Westlaw Next Certificate</b>
 
 - <b>Notary Public</b>
-
+  - Nevada
 - <b>Document Preparation</b>
+  - Nevada
 
-
-<h2> 🤳 Connect with me:</h2>
-
-![icons8-linkedin-48](https://github.com/digital-md/digital-md/assets/156498985/a1e20841-f8d3-4b68-9b05-532437186b26)
-https://www.linkedin.com/in/mike-doty-120ab313
-
-![icons8-facebook-48](https://github.com/digital-md/digital-md/assets/156498985/30de628b-ac7d-47fe-847b-0963c60f31f6)
-https://www.facebook.com/Mikedoty24
-
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
 
