@@ -35,9 +35,9 @@
  
  🔭 I’m currently working on- **creating templates and forms for a website**
  
- 🌱 I’m currently learning-  **preparing to take the Security+ exam**
+ 🌱 I’m currently learning-  **more about Cloud Security while also preparing to take the Security+ Exam**
 
-⚡ Hobbies- **snowboarding, tennis, cooking, traveling, and learning new skills**
+⚡ Hobbies- **snowboarding, tennis, cooking, traveling, spending time with family, and learning new skills**
 
  </div>
 
