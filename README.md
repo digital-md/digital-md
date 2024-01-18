@@ -15,6 +15,8 @@
 
 - <b>Linux Commands</b>
   - [Linux for File Permissions](https://github.com/digital-md/Linux-commands-to-manage-file-permissions)
+ 
+
 <h2>Certifications & Licenses</h2>
 
 - <b>Google Cybersecurity Specialization Certificate</b> ([Credentials](https://www.coursera.org/account/accomplishments/specialization/VFTTX3QC4L2K))  
@@ -27,6 +29,19 @@
   - Nevada
 - <b>Document Preparation</b>
   - Nevada
+
+<h1></h1>
+<div align="left">
+ 
+ 🔭 I’m currently working on- **creating templates and forms for a website**
+ 
+ 🌱 I’m currently learning-  **preparing to take the Security+ exam**
+
+⚡ Hobbies- **snowboarding, tennis, cooking, traveling, and learning new skills**
+
+ </div>
+
+
 
 
 <!--
